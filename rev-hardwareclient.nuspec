@@ -35,14 +35,14 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
     <title>REV Hardware Client</title>
-    <authors>REV Robotics</authors>
+    <authors>REV Robotics, NoahAndrews</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.4.1/REV-Hardware-Client-Setup-1.4.1.exe</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/rev-hardwareclient.png</iconUrl>-->
     <copyright>© 2022 REV Robotics</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
-    <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
+    <projectSourceUrl>https://github.com/im-a-robo/rev-hardwareclient</projectSourceUrl>
+    <docsUrl>https://github.com/REVrobotics/REV-Hardware-Client-Documentation/blob/master/README.md</docsUrl>
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>REV FRC first robotics</tags>
