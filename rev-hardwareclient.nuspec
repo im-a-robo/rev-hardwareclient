@@ -38,7 +38,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>REV Robotics, NoahAndrews</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.4.1/REV-Hardware-Client-Setup-1.4.1.exe</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/rev-hardwareclient.png</iconUrl>-->
+    <iconUrl>https://cdn.jsdelivr.net/gh/im-a-robo/rev-hardwareclient@main/logo.png</iconUrl>
     <copyright>© 2022 REV Robotics</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/im-a-robo/rev-hardwareclient</projectSourceUrl>
